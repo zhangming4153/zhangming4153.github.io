@@ -23,4 +23,4 @@ I am a first-year Master student at Renmin University of China working on statis
 - **[Aug. 2025] Fieldwork:** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary here, _Ten Days in Ningxia_. [[PDF]](assets/Ningxia.pdf).
 - **[May. 2025] Fieldwork :** Participated in a field visit in Shanxi Province as a volunteer with Da Ai Qing Chen (Love Save Pneumoconiosis), a non-profit organization supporting pneumoconiosis patients. A piece of literary reportage documenting the visit here, _The Road to Seibei_.
  [[Wechat Article]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) | [[Tencent Mirror]](https://news.qq.com/rain/a/20250605A06ML000) | [[PDF]](assets/Shanxi.pdf) 
-- **[Apr. 2025] Research** Discussed research direction with my future Master's advisor Prof. Zhou Feng at Renmin University of China.
+- **[Apr. 2025] Research:** Discussed research direction with my future Master's advisor Prof. Zhou Feng at Renmin University of China.
