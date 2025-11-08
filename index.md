@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Master student at Renmin University of China working on statistics, machine learning, and point process modeling. I previously earned a Bachelor's degree in Financial Mathematics at Shandong University, and spent three years as a private math/economics instructor in Zhejiang. I am also interested in language, endurance training, teaching, and non-fiction literary reportage / volunteer fieldwork.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Temperal Point Process:** Hawkes processes and spectral/graph-based neural modeling for point processes
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2025]** Placed 4th (team), 6th (3,000m) and 7th (1-minute rope skipping) at the RUC Annual Sports Meeting.
+- **[Aug. 2020]** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary here.
+- **[May. 2019]** Participated in a field visit in Shanxi Province as a volunteer with Da Ai Qing Chen (Love Save Pneumoconiosis), a non-profit organization supporting pneumoconiosis patients. A piece of literary reportage documenting the visit here.
+- **[Apr. 2019]** First meeting with RUC master's advisor, Prof. Zhou Feng.
 
 {% include_relative _includes/publications.md %}
 
