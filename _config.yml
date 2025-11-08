@@ -15,8 +15,8 @@ github_link: https://github.com/zhangming4153
 
 # Images 
 avatar: ./assets/img/profile.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/renmin.png
+favicon_dark: ./assets/img/renmin.png
 
 enable_footnote: true
 auto_dark_mode: true
