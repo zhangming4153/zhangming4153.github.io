@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Master student at Renmin University of China working on statistics, machine learning, and point process modeling. I previously earned a Bachelor's degree in Financial Mathematics at Shandong University, and spent three years as a private math/economics instructor in Zhejiang. I am also interested in language, endurance training, teaching, and non-fiction literary reportage / volunteer fieldwork. Here is my [[CV]](assets/CV_MingZhang_en)
+I am a first-year Master student at Renmin University of China working on statistics, machine learning, and point process modeling. I previously earned a Bachelor's degree in Financial Mathematics at Shandong University, and spent three years as a private math/economics instructor in Zhejiang. I am also interested in language, endurance training, teaching, and non-fiction literary reportage / volunteer fieldwork. Here is my [[CV]](assets/CV_MingZhang_en)[[简历]](assets/CV_MingZhang_zh).
 
 ## Research Interests
 
