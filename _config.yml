@@ -18,7 +18,7 @@ avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/renmin.png
 favicon_dark: ./assets/img/renmin.png
 
-enable_footnote: true
+enable_footnote: false
 auto_dark_mode: true
 font: "Serif"
 
