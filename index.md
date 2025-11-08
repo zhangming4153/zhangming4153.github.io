@@ -16,7 +16,7 @@ I am a first-year Master student at Renmin University of China working on statis
 - **[Nov. 2025]** Placed 4th (team), 6th (3,000m) and 7th (1-minute rope skipping) at the RUC Annual Sports Meeting.
 - **[Aug. 2020]** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary here.
 - **[May. 2019]** Participated in a field visit in Shanxi Province as a volunteer with Da Ai Qing Chen (Love Save Pneumoconiosis), a non-profit organization supporting pneumoconiosis patients. A piece of literary reportage documenting the visit here.
-- **[Apr. 2019]** First meeting with RUC master's advisor, Prof. Zhou Feng.
+- **[Apr. 2019]** Discussed research direction with my future Master's advisor Prof. Zhou Feng at Renmin University of China.
 
 {% include_relative _includes/publications.md %}
 
