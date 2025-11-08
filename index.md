@@ -11,14 +11,16 @@ I am a first-year Master student at Renmin University of China working on statis
 - **Temperal Point Process:** Hawkes processes and spectral/graph-based neural modeling for point processes
 
 
-## News
+## Research News
+- **[Nov. 2025] Hawkes with Frequency Framework:** beginning to replicate the theory and empirical results of Hawkes 2019 paper.
+  
+{% include_relative _includes/publications.md %}
 
-- **[Nov. 2025]** Placed 4th (team match), 6th (3,000m) and 7th (1-minute rope skipping) at the RUC Annual Sports Meeting.
+{% include_relative _includes/services.md %}
+
+## Personal Updates
+- **[Oct. 2025]** Placed 4th (team match), 6th (3,000m) and 7th (1-minute rope skipping) at the RUC Annual Sports Meeting.
 - **[Aug. 2025]** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary here, _Ten Days in Ningxia_. [[PDF]](assets/Ningxia.pdf).
 - **[May. 2025]** Participated in a field visit in Shanxi Province as a volunteer with Da Ai Qing Chen (Love Save Pneumoconiosis), a non-profit organization supporting pneumoconiosis patients. A piece of literary reportage documenting the visit here, _The Road to Seibei_.
  [[Wechat Article]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) | [[Tencent Mirror]](https://news.qq.com/rain/a/20250605A06ML000) | [[PDF]](assets/Shanxi.pdf) 
 - **[Apr. 2025]** Discussed research direction with my future Master's advisor Prof. Zhou Feng at Renmin University of China.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
