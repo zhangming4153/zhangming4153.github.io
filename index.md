@@ -15,9 +15,9 @@ I am a first-year Master student at Renmin University of China working on statis
 - **[Nov. 2025] Hawkes:** Replicating the theory and empirical results of Hawkes 2019 paper.
 - **[Sept. 2025] Hawkes:** Reading Hawkes 2019 paper and relevant basics.
   
-#{% include_relative _includes/publications.md %}
+<!--{% include_relative _includes/publications.md %}
 
-#{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %}-->
 
 ## Personal Updates
 - **[Nov. 2025] Sports:** Finished my first half marathon (Tongzhou Half Marathon) in 1 hours 31 mins.
