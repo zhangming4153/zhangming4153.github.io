@@ -8,7 +8,7 @@ I am a first-year Master student at Renmin University of China working on statis
 
 ## Research Interests
 
-- Temperal Point Process
+- Temperal Point Process, Bayesian Statistics
 
 
 ## Research Progress
