@@ -19,7 +19,7 @@ I am a first-year Master student at Renmin University of China working on statis
 {% include_relative _includes/services.md %}
 
 ## Personal Updates
-- **[Nov. 2025] Sports:** Finished my first half marathon (Tongzhou Half Marathon) in 1 hours 31 mins 31 seconds.
+- **[Nov. 2025] Sports:** Finished my first half marathon (Tongzhou Half Marathon) in 1 hours 31 mins.
 - **[Oct. 2025] Sports:** Placed 4th (team match), 6th (3,000m) and 7th (1-minute rope skipping) at the RUC Sports Meeting.
 - **[Aug. 2025] Fieldwork:** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary here, _Ten Days in Ningxia_. [[PDF]](assets/Ningxia.pdf).
 - **[May. 2025] Fieldwork :** Participated in a field visit in Shanxi Province as a volunteer with NPO Da Ai Qing Chen (Love Save Pneumoconiosis). A piece of literary reportage documenting the visit here, _The Road to Seibei_.
