@@ -12,7 +12,8 @@ I am a first-year Master student at Renmin University of China working on statis
 
 
 ## Research Progress
-- **[Nov. 2025] Hawkes:** Beginning to replicate the theory and empirical results of Hawkes 2019 paper.
+- **[Nov. 2025] Hawkes:** Replicating the theory and empirical results of Hawkes 2019 paper.
+- **[Sept. 2025] Hawkes:** Reading Hawkes 2019 paper and relevant basics.
   
 {% include_relative _includes/publications.md %}
 
