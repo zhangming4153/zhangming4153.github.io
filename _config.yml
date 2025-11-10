@@ -23,6 +23,7 @@ auto_dark_mode: true
 font: "Serif"
 
 # Google Analytics
+google_analytics: G-0DKF7N1ZZH  
 
 remote_theme: yaoyao-liu/minimal-light
 
