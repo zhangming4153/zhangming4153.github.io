@@ -4,21 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Master student at Renmin University of China working on statistics, machine learning, and point process modeling. I previously earned a Bachelor's degree in Financial Mathematics at Shandong University, and spent three years as a private math/economics instructor in Zhejiang. I am interested in non-fiction writing, endurance sports, and volunteer fieldwork. Here is my [[CV]](assets/CV_MingZhang_en.pdf)[[简历]](assets/CV_MingZhang_zh.pdf).
-
-## Research Interests
-
-- Temperal Point Process, Bayesian Statistics
+I am a first-year Master student at Renmin University of China working on statistics, machine learning, and point process modeling. I previously earned a Bachelor's degree in Financial Mathematics at Shandong University, and spent three years as a private math/economics instructor in Zhejiang. My current research interests are **Temperal Point Process, Bayesian Statistics**. I am also interested in non-fiction writing, endurance sports, and volunteer fieldwork. Here is my [[CV]](assets/CV_MingZhang_en.pdf)[[简历]](assets/CV_MingZhang_zh.pdf).
 
 
 ## Research Progress
 - **[Nov. 2025] Hawkes:** Replicating the theory and empirical results of Hawkes 2019 paper.
 - **[Sept. 2025] Hawkes:** Reading _Spectral estimation of Hawkes processes from
 count data(2019)_ and relevant basics.
-  
-<!-- {% include_relative _includes/publications.md %} -->
 
-<!-- {% include_relative _includes/services.md %} -->
 
 ## Personal Updates
 - **[Nov. 2025] Sports:** Finished my first half marathon (Tongzhou Half Marathon) in 1 hours 31 mins.
