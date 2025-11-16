@@ -290,7 +290,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:13px;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -448,7 +448,7 @@ section {
 
 
 small {
-  font-size:11px;
+  font-size:13px;
 }
 
 hr {
@@ -467,11 +467,6 @@ footer {
   margin:2rem 0;
 }
 
-section p,
-section li {
-  font-size: 18px !important;
-  line-height: 1.7;
-}
 
 
 @media print, screen and (max-width: 960px) {
