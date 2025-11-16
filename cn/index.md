@@ -12,7 +12,7 @@ title: 章明
 
 科研之外，我有一些“慢节奏”的习惯：在城市里跑或骑很长的距离、在村镇和街巷里观察那些不常被看见的生活、把遇到的人和故事记录下来。
 
-你可以在简历进一步查看我的教育背景和工作经历：[[英文 CV]](/assets/CV_MingZhang_en.pdf) ｜ [[中文简历]](/assets/CV_MingZhang_zh.pdf)
+你可以在简历进一步查看我的教育背景和工作经历：[[英文简历]](/assets/CV_MingZhang_en.pdf)[[中文简历]](/assets/CV_MingZhang_zh.pdf)
 
 ## 研究进展
 
