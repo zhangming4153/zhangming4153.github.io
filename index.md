@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: Ming Zhang
 ---
 ## About Me
 
