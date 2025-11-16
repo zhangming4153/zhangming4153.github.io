@@ -9,7 +9,7 @@ layout: homepage
 
 
 ## 研究进展
-- **2025年9月｜霍克斯点过程**：正在阅读并复现 _Spectral estimation of Hawkes processes from count data (2019)_主要理论和实验结果。
+- **2025年9月｜霍克斯点过程**：正在阅读并复现 _Spectral estimation of Hawkes processes from count data (2019)_ 主要理论和实验结果。
 
 
 ## 个人动态
