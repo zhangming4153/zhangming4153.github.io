@@ -1,8 +1,8 @@
 # Basic Information 
 title: Ming Zhang
-position: Master’s Student
-affiliation: Renmin University of China
-email: mingjonnier@gmail.com
+position: Master’s Student at Renmin University
+# affiliation: Renmin University of China
+email: jonnierzhang@foxmail.com
 
 # Search Engine Optimization
 keywords: statistics, machine learning, AI, causal inference
@@ -10,8 +10,8 @@ description: Ming Zhang is a Master student in Statistics and AI at Renmin Unive
 canonical: https://zhangming4153.github.io/
 
 # Links 
-cv_link: assets/files/CV_MingZhang_en.pdf
-github_link: https://github.com/zhangming4153
+# cv_link: assets/files/CV_MingZhang_en.pdf
+# github_link: https://github.com/zhangming4153
 
 # Images 
 avatar: ./assets/img/profile.png
