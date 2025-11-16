@@ -1,5 +1,6 @@
 ---
 layout: homepage
+permalink: /cn/
 ---
 ## 关于我
 
