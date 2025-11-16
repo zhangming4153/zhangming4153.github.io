@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year **Master's student in Statistics at Renmin University of China**. I previously earned a Bachelor's degree in **Financial Mathematics and Financial Engineering at Shandong University**, and spent three years as a private math/economics instructor in Zhejiang. My current research interests include **Temporal Point Process and AI for Cities**. I am also interested in non-fiction writing, endurance sports, and fieldwork. Here are my CVs: [[CV(EN)]](assets/CV_MingZhang_en.pdf)[[CV(ZH)|中文简历]](assets/CV_MingZhang_zh.pdf).
+I am a first-year **Master's student in Statistics at Renmin University of China**. I previously earned a Bachelor's degree in **Financial Mathematics and Financial Engineering at Shandong University**, and spent three years as a private math/economics instructor in Zhejiang. My current research interests include **Temporal Point Process and AI for Cities**. I am also interested in non-fiction writing, endurance sports, and fieldwork. Here are my CVs: [[CV(EN)]](assets/CV_MingZhang_en.pdf)[[CV(ZH) 中文简历]](assets/CV_MingZhang_zh.pdf).
 
 
 ## Research Progress
