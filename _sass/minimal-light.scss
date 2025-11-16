@@ -295,8 +295,9 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:960px;
+.wrapper{
+  max-width:960px;
+  width:100%;
   margin:0 auto;
 }
 
@@ -356,14 +357,14 @@ img {
 }
 
 header {
-  width:232px;
-  float:left;
-  position:fixed;
+  width:100%;
+  float:none;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
-  text-align:center
+  padding-top:3.0em;
+  text-align:center;
+  margin-bottom:2.5rem;
 }
-
 
 
 header ul {
@@ -432,11 +433,14 @@ header ul a strong {
 }
 
 section {
-  width:650px;
-  float:right;
-  padding-top:4.0em;
-  padding-bottom:50px;
+  width:100%;
+  float:none;
+  padding-top:0;
+  padding-bottom:3.0em;
+  max-width:900px;
+  margin:0 auto;
 }
+
 
 small {
   font-size:11px;
@@ -450,25 +454,31 @@ hr {
 }
 
 footer {
-  width:232px;
-  float:left;
-  position:fixed;
-  bottom:30px;
+  width:100%;
+  float:none;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
+  margin:2rem 0;
 }
+
 
 @media print, screen and (max-width: 960px) {
 
+  body {
+    word-wrap:break-word;
+    padding:15px;
+  }
+
   .pub-row {
-  display: flex; 
-  align-items: center;}
+    display: flex; 
+    align-items: center;
+  }
 
   div.wrapper {
     width:auto;
     margin:0;
   }
-
 
   header, section, footer {
     float:none;
@@ -477,14 +487,14 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-top:2.0em;
+    margin-bottom:1.5rem;
   }
 
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
+    border:none;
+    padding:0;
+    margin:0 0 1.5rem;
   }
 
   header a small {
@@ -497,44 +507,22 @@ footer {
     top:52px;
   }
 
-
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
-  #head1o2 {
-    visibility: hidden;
+  .image.avatar img {
+    border-radius: 100%;
+    width:117px;
+    padding:20px;
   }
-      
+
+  #head1o2,
   #head2o2 {
-    visibility: hidden;
-  }
-  
-}
-
-@media print, screen and (max-width: 960px) {
-  body {
-    word-wrap:break-word;
-    padding:15px;
-  }
-
-  .pub-row {
-  display: flex; 
-  align-items: center;}
-
-  header {
-    padding:0;
-  }
-
-  header ul, header p.view {
-    
+    visibility:hidden;
   }
 
   pre, code {
     word-wrap:normal;
   }
 }
+
 
 @media print, screen and (max-width: 480px) {
 
