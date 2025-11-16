@@ -2,6 +2,7 @@
 layout: homepage
 ---
 <p align="right">[English Version →](/)</p>
+
 ## 关于我
 
 我目前是**中国人民大学统计学院的一年级硕士生**，本科毕业于**山东大学金融数学专业**，毕业后我从事了三年的经济和数学私人讲师工作。我的研究方向包括 **时点过程（Temporal Point Process）和 智慧城市（AI for Cities）**。我也对耐力运动、非虚构写作和田野调查工作感兴趣。
