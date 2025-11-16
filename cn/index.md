@@ -1,6 +1,7 @@
 ---
 layout: homepage
 permalink: /cn/
+title: 章明
 ---
 
 ## 关于我
