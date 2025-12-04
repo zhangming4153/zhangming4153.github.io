@@ -11,18 +11,11 @@ I am a first-year **Master's student in Statistics at Renmin University of China
 - **[Sept. 2025 -] Hawkes:** Reading the paper _Spectral estimation of Hawkes processes from
 count data(2019)_ and related fundamentals.
 
-## Experience
-- Undergraduate Math/Econ Mentor, Lumist Education,  Mar. 2023 - Dec. 2024
-- Secondary Math Instructor, Dacheng Education, Feb. 2022 - Aug. 2024
-
-  
-<!--
 ## Personal Updates
-- **[Nov. 2025] Sports:** Finished my first half marathon (Tongzhou Half Marathon, 1 hour 32 mins).
-- **[Oct. 2025] Sports:** Placed 4th (team match), 6th (3,000m) and 7th (1-minute rope skipping) at the university Sports Meeting.
-- **[Aug. 2025] Fieldwork:** Served as a group leader in the China Water Institutions & Management (CWIM) field study initiated by Peking University. A short field summary, _Ten Days in Ningxia_(Chinese). [[PDF]](assets/Ningxia.pdf).
-- **[Jul. 2025] Writing:** A record of how life continues to grow inside construction ruins of Xinggezhuang, Tongzhou, _Greens in Ruins_(Chinese). [[PDF]](assets/Greenruins.pdf)
-- **[May. 2025] Fieldwork:** Participated in a field visit in Shanxi Province with NPO Da Ai Qing Chen (Love Save Pneumoconiosis). A piece of literary reportage documenting the visit, _The Road to Seibei_(Chinese).
+- **[Nov. 2025] Sports:** Completed my first half marathon (Tongzhou Half Marathon, 1 hour 32 mins).[[Split Times]](/assets/tongz_semimara.jpg)
+- **[Aug. 2025] Fieldwork:** Served as a team co-leader in the Peking University CWIM Water Resources Survey in Ningxia. Traveled through towns, canal heads, irrigation districts, and local agencies, and wrote the short field summary **_Ten Days in Ningxia_(Chinese)**. [[PDF]](assets/Ningxia.pdf).
+- **[Jul. 2025] Writing:** Conducted several micro-observations in the demolition zone of Xinggezhuang, Tongzhou, documenting the vitality amid rubble in **_Greens in Ruins_(Chinese)**. [[PDF]](assets/Greenruins.pdf)
+- **[May. 2025] Fieldwork:** Joined the charity group “Love Save Pneumoconiosis” for a field visit in Daixian, Shanxi. Traveled through township clinics and patients’ homes and documented the experience in **_The Road to Seibei_(Chinese)**.
  [[Wechat Article]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) | [[Tencent Mirror]](https://news.qq.com/rain/a/20250605A06ML000) | [[PDF]](assets/Shanxi.pdf) 
-- **[Apr. 2025] Research:** Discussed potential research directions with my future Master's advisor Prof. Zhou Feng at Renmin University of China.
--->
+
+
