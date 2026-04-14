@@ -4,7 +4,7 @@ title: Ming Zhang
 ---
 ## About Me
 
-I am a first-year **Master's student in Statistics at Renmin University of China**. I previously earned a Bachelor's degree in **Financial Mathematics and Financial Engineering at Shandong University**, and spent three years as a private math/economics instructor in Zhejiang. My current research interests include **Temporal Point Process(TPP)** and its applications in **statistics machine learning** and **AI for cities**. In daily life, I am interested in field work and endurance sports. Here are my CVs: [[CV(EN)]](assets/CV_MingZhang_en.pdf)[[CV[ZH]]](assets/简历_章明.pdf).
+I am a first-year **Master's student in Statistics at Renmin University of China**. I previously earned a Bachelor's degree in **Financial Mathematics and Financial Engineering at Shandong University**, and spent three years as a private math/economics instructor in Zhejiang. My current research interests include **Temporal Point Process(TPP)** and its applications in **statistics machine learning** and **AI for cities**. In daily life, I am interested in field work and endurance sports. Here are my CVs: [[CV(EN)]](assets/CV_MingZhang_en.pdf)[[CV[ZH]]](assets/CV_MingZhang_cn.pdf).
 
 
 ## Progress
