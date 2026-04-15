@@ -15,6 +15,7 @@ For more personal background, please see the Chinese page via the link in the to
 Notes and ongoing projects are being organized.
 
 
-![image](https://zhangming4153/zhangming4153.github.io/assets/people_0912.jpg?raw=true)
+## A Group Picture
+![image](https://github.com/zhangming4153/zhangming4153.github.io/assets/people_0912.jpg?raw=true)
 
-A lovely research group photo. From the left to the right are Li Jichu, Zhong Yilun, Wan Cheng, Zhang Jiaming, Prof. Zhou Feng, Zhang Haoran, me, and Li Zhiting..
+From the left to the right are Li Jichu, Zhong Yilun, Wan Cheng, Zhang Jiaming, Prof. Zhou Feng, Zhang Haoran, me, and Li Zhiting.
