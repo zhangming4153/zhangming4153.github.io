@@ -16,6 +16,6 @@ Notes and ongoing projects are being organized.
 
 
 ## A Picture
-![image](https://github.com/zhangming4153/assets/people_0912.jpg?raw=true)
+![image](./assets/people_0912.jpg)
 
 From the left to the right are Li Jichu, Zhong Yilun, Wan Cheng, Zhang Jiaming, Prof. Zhou Feng, Zhang Haoran, me, and Li Zhiting.
