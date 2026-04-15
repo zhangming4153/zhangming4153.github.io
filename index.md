@@ -11,11 +11,11 @@ I am currently interested in **statistical machine learning theory and methods, 
 For more personal background, please see the Chinese page via the link in the top-right corner.
 
 
-## Working Papers
+## Publications/Working Papers
 Notes and ongoing projects are being organized.
 
 
 ## A Picture
 ![image](./assets/people_0912.jpg)
 
-From the left to the right are Li Jichu, Zhong Yilun, Wan Cheng, Zhang Jiaming, Prof. Zhou Feng, Zhang Haoran, me, and Li Zhiting.
+From the left to the right are Li Jichu, Zhong Yilun, Wan Cheng, Zhang Jiaming, **Prof. Zhou Feng**, Zhang Haoran, **Zhang Ming(me)**, and Li Zhiting.
