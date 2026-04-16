@@ -7,9 +7,7 @@ title: 章明
 
 我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>，一座因小商品市场而闻名的城市。青年时期起，我就喜欢耐力运动（花式跳绳、马拉松）和球类运动（羽毛球、篮球、乒乓），也喜欢读历史，尤其是科学史和人物史。我一直很喜欢社会人类学家<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和生物学家<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师。
 
-2025年，我开始了在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>的硕士研究生生活。在这之前，我做过一些短期公益实践、田野调查和纪实写作，也在教育行业工作过两年半。2021年，我毕业于**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**。
-
-下面是我身上一些新旧交叠的标签。
+2025年，我开始了在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>的硕士研究生生活。在这之前，我做过一些短期公益实践、田野调查和纪实写作，也在教育行业工作过两年半。2021年，我毕业于**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**。下面是我身上一些新旧交叠的标签。
 
 ### 耐力运动
 - 2025 年 11 月，以 1 小时 31 分完成半程马拉松，参加**通州半程马拉松**（西海子 → 北运河 → 城市绿心公园 → 人民大学通州校区）。[[配速]](/assets/tongz_semimara.jpg) [[照片]](/assets/tongz_semimara_profile.jpg)
