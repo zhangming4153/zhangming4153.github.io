@@ -29,7 +29,7 @@ title: 章明
 
  ## 照片(右二)
  
-![image](zhangming4153.github.io/assets/people_0912.jpg)
+![image](/assets/people_0912.jpg)
 
 
 
