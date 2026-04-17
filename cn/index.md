@@ -3,7 +3,7 @@ layout: homepage
 permalink: /cn/
 title: 章明
 ---
-## 欢迎来到我的生活页面！
+### 欢迎来到我的生活页面！
 
 我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>，一座因小商品市场而闻名的城市。我喜欢的耐力运动是花式跳绳、马拉松，球类运动包括羽毛球、篮球、乒乓，我也喜欢阅读人物史和科学史。我是<a href="http://guoxue.ruc.edu.cn/szdw/gwjys/727166927bea4dd7a5164420aabd1494.htm"><strong><u>李昀萌</u></strong></a>老师、<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师的粉丝。
 
