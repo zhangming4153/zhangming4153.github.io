@@ -7,7 +7,7 @@ title: 章明
 
 我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>，一座因小商品市场而闻名的城市。我喜欢花式跳绳、马拉松、羽毛球、篮球、乒乓球，也喜欢阅读人物史和科学史。我是<a href="http://guoxue.ruc.edu.cn/szdw/gwjys/727166927bea4dd7a5164420aabd1494.htm"><strong><u>李昀萌</u></strong></a>老师、<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师的粉丝。
 
-我从2025年开始在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>攻读硕士研究生。在这之前，我做过一些短期公益实践、田野调查和纪实写作，并在教育行业工作过两年半。我在**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**获得学士学位。下面是我的一些新闻和瞬间。
+我从2025年开始在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>攻读硕士研究生。在这之前，我做过一些短期公益实践、田野调查和纪实写作，并在教育行业工作过两年半。我在**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**获得学士学位。下面是我的一些生活瞬间。
 
 ### 最近新闻
 - 2026 年 3 月，担任中国人民大学 **统计学外语(Foreign Language for Statistics)** 助教。
