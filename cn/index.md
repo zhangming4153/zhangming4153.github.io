@@ -5,25 +5,20 @@ title: 章明
 ---
 ## 欢迎来到我的生活页面！
 
-我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>，一座因小商品市场而闻名的城市。青年时期起，我就喜欢耐力运动（花式跳绳、马拉松）和球类运动（羽毛球、篮球、乒乓），也喜欢读历史，尤其是科学史和人物史。我一直很喜欢社会人类学家<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和生物学家<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师。
+我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>，一座因小商品市场而闻名的城市。我爱好包括耐力运动（花式跳绳、马拉松）、球类运动（羽毛球、篮球、乒乓）和阅读历史（科学史、人物史）。我是<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师的粉丝。
 
-2025年，我开始了在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>的硕士研究生生活。在这之前，我做过一些短期公益实践、田野调查和纪实写作，也在教育行业工作过两年半。2021年，我毕业于**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**。下面是我身上一些新旧交叠的标签。
+2025年，我开始了在**人民大学**<a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>的硕士研究生生活。在这之前，我做过一些短期公益实践、田野调查和纪实写作，也在教育行业工作过两年半。2021年，我毕业于**山东大学**<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a> **彭实戈班**。下面是最近的一些生活瞬间。
 
-### 运动
-- 2025 年 11 月，以 1 小时 31 分完成半程马拉松，参加**通州半程马拉松**（西海子 → 北运河 → 城市绿心公园 → 人民大学通州校区）。[[配速]](/assets/tongz_semimara.jpg) [[照片]](/assets/tongz_semimara_profile.jpg)
-- 2025 年 10 月，加入**北京副中心跑团**，开始每周一次的例行训练。[[照片]](/assets/tongz_group.png)
-- 2017 年到 2021 年，常和班级项目同学一起锻炼，并组织和参加篮球、田径、越野和校园吉尼斯等赛事。
-
-### 田野
-- 2025 年 8 月，作为三组组长参加**北大宁夏水资源调研**，走过村镇、渠首、灌区和管理部门，写成调研随笔《宁夏十日》。[[PDF]](/assets/Ningxia.pdf)
+### 生活瞬间
+- 2026 年 3 月，担任中国人民大学 **统计学外语(Foreign Language for Statistics** 助教。
+- 2025 年 11 月，1小时31分完成首个马拉松赛事，**通州半程马拉松**（西海子 → 北运河 → 城市绿心公园 → 人民大学通州校区）。[[配速]](/assets/tongz_semimara.jpg) [[照片]](/assets/tongz_semimara_profile.jpg)。
+- 2025 年 10 月，在**人民大学新生运动会**趣味团体项目和个人田径项目获得一些名次。[[照片]](/assets/统计学院_新生运动会.jpg)
+- 2025 年 10 月，加入**北京副中心跑团**开始每周一次的例行训练。[[照片]](/assets/tongz_group.png)
+- 2025 年 9 月，进入中国人民大学统计学院周峰老师的课题组。
+- 2025 年 8 月，参加**北大宁夏水资源调研**，走过村镇、渠首、灌区和管理部门，写成调研随笔《宁夏十日》。[[PDF]](/assets/Ningxia.pdf)
 - 2025 年 5 月，随“大爱清尘”赴山西代县进行**尘肺病公益探访**，穿行在村镇卫生院与患者家庭之间，记录成《塞北之路》。[[微信]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) ｜ [[PDF]](/assets/Shanxi.pdf)
-- 2017 年到 2019 年，曾跟随或带领团队调研济南的商铺与企业，也在学生社群中做过宣传推广，参与推动校企合作。
 
-### 教育
-- 2026 年春季，在人民大学担任 **统计学外语** 助教。
-- 2022 年到 2024 年，在国际本科和国内中学教育辅导行业工作，教授数学、英语和经济。学生们送给我一个外号，叫“**金牌讲师**”。
-- 2020 年秋季，在山东大学担任 **Python** 助教。
 
-## 照片（右二）
+### 照片（右二）
 
 ![image](/assets/people_0912.jpg)
