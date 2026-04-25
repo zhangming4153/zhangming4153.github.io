@@ -16,7 +16,7 @@ title: 章明
 - 2025 年 10 月，加入**北京副中心跑团**开始每周训练。[[照片]](/assets/tongz_group.png)
 - 2025 年 9 月，进入人民大学**周峰老师**的课题组。
 - 2025 年 8 月，参加宁夏银川、吴忠地区**水资源调研活动**，调研村镇、灌区和管理部门。[[调研随笔]](/assets/Ningxia.pdf)
-- 2025 年 5 月，赴山西代县进行**尘肺病公益活动**，探访村镇卫生院与患者家庭。[[微信宣传]]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) ｜ [[探访随笔]](/assets/Shanxi.pdf)
+- 2025 年 5 月，赴山西代县进行**尘肺病公益活动**，探访村镇卫生院与患者家庭。[[微信推文]](https://mp.weixin.qq.com/s/o8Zpdd-DVcAKxdC4jhWxGg) ｜ [[探访随笔]](/assets/Shanxi.pdf)
 
 
 ### 课题组照片（右二）
