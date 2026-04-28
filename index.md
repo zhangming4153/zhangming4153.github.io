@@ -4,7 +4,7 @@ permalink: /
 title: Ming Zhang
 ---
 
-### Entry | 入口
+### Entry | 选择入口
 
 Welcome to my web pages. You can choose a Chinese life page or an English academic page below.
 
