@@ -6,13 +6,13 @@ title: 章明
 ### 欢迎来到我的页面！
 
 <p>
-我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里我喜欢跳绳、跑步、羽毛球，也很欢迎一起约运动，聊聊天、出出汗。安静下来的时候，我好奇不同地方的风土人情，会读一些历史和地理杂书。
+我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球、健身，很欢迎感兴趣的伙伴们一起约运动，一起聊聊天和出出汗！
 </p>
 
 <p>
-我很受
+我好奇不同地方的风土人情，偶尔会读一些历史和地理方面的杂书，也会读社会、教育和公共生活相关的书籍。我从
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和
-<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师的启发，也常从他们关于社会、教育和公共生活的讨论中获得新的视角。
+<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师那里得到过很多启发。
 </p>
 
 <p>
