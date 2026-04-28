@@ -7,9 +7,9 @@ title: 章明
 
 我来自浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。
 
-平时喜欢跳绳、跑步、羽毛球、徒步、健身和各种球类，也欢迎感兴趣的朋友一起约运动。
+平时喜欢跳绳、跑步、羽毛球、篮球、徒步、健身，也欢迎感兴趣的朋友一起约运动。
 
-感兴趣于社会、教育和公共生活中的问题，我从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
+我也关注社会、教育和公共生活中的问题，从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师那里得到过很多启发。
 </p>
 
