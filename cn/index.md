@@ -7,9 +7,9 @@ title: 章明
 
 我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我一直是比较喜欢动的人，平时喜欢跳绳、跑步、羽毛球和健身；也欢迎感兴趣的朋友一起约运动，散散步，聊聊天。
 
-安静下来的时候，我常会读一些历史、地理和地方相关的杂书，也好奇不同地方的风土人情，以及普通人在具体生活中的处境。关于社会、教育和公共生活的许多思考，我从
+安静下来的时候，我常会读一些历史、地理和地方相关的杂书，也好奇不同地方的风土人情，以及普通人在具体生活中的处境。我从
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和
-<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师那里得到过很多启发。
+<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师那里得到过很多关于社会、教育和公共生活的启发。
 
 我从 2025 年开始在中国人民大学
 <a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>
