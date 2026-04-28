@@ -1,20 +1,25 @@
 ---
 layout: homepage
-title: Ming Zhang
+permalink: /
+title: 章明 | Ming Zhang
 ---
-## About Me
 
-I am a first-year **Master's student in Statistics at Renmin University of China**. I previously earned a Bachelor's degree in **Financial Mathematics and Financial Engineering at Shandong University**. 
+### 章明 / Ming Zhang
 
-I am currently interested in **statistical machine learning theory and methods, with a focus on temporal point processes and spectral inference.** Here are my CVs: [[CV(EN)]](assets/CV_MingZhang_en.pdf)[[CV(ZH)]](assets/CV_MingZhang_cn.pdf).
+欢迎来到我的个人页面。这里放了一些关于学习、生活、运动、阅读和公共实践的片段。
 
-For more personal updates, please see the Chinese page via the link in the top-right corner.
+Welcome to my personal page. You can choose a Chinese life page or an English academic page below.
 
+<div style="margin-top: 2em; line-height: 2.2; font-size: 1.05em;">
 
-## Publications/Working Papers
-Notes and ongoing projects are being organized.
+<a href="/cn/"><strong><u>中文生活页</u></strong></a>  
+<br>
+一些生活近况、运动、阅读、调研和公益实践记录。
 
+<br><br>
 
-## A Picture(2nd from right)
-![image](./assets/people_0912.jpg)
+<a href="/en/"><strong><u>English Academic Page</u></strong></a>  
+<br>
+Academic background, research interests, and professional information.
 
+</div>
