@@ -1,5 +1,6 @@
 ---
 layout: homepage
+permalink: /en/
 title: Ming Zhang
 ---
 ## About Me
