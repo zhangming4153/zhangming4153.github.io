@@ -6,9 +6,10 @@ title: 章明
 ### 欢迎来到我的页面！
 
 <p>
-我成长在江西抚州<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>义乌</u></strong></a>、浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球，也很喜欢朋友一起运动、聊天、出汗。安静下来的时候，我常读一些历史、地理、地方志和游记，也喜欢理解不同地方的风土、人群与生活。
+我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球，也很喜欢和朋友一起运动、聊天、出汗。安静下来的时候，我常读一些历史、地方志和游记，也好奇不同地方的风土和人群。
 </p>
-  
+
+<p>
 近些年，我很受
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和
 <a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师的启发，也常从他们关于社会、教育和公共生活的讨论中获得新的视角。
@@ -17,7 +18,7 @@ title: 章明
 <p>
 我从2025年开始在中国人民大学
 <a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>
-学习统计学。入学前的一段时间里，我做过一些短期公益实践、田野调查和纪实写作；更早的时候，我曾在教育行业工作，主要教中小学生数学和英语，也辅导过国际本科生的经济学和数学课程。
+学习统计学。入学前的一段时间里，我做过一些短期公益实践、田野调查和纪实写作；更早的时候，我在教育行业工作，主要教中小学生数学和英语，也辅导过国际本科生的经济学和数学课程。
 </p>
 
 <p>
