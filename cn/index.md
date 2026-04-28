@@ -8,7 +8,7 @@ title: 章明
 <p>
 我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球，也很喜欢和朋友一起运动、聊天、出汗。安静下来的时候，我常读一些历史、地方志和游记，也好奇不同地方的风土和人群。我很受
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和
-<a href="https://en.wikipedia.org/wiki/Rao_Yi"><strong><u>饶毅</u></strong></a>老师的启发，也常从他们关于社会、教育和公共生活的讨论中获得新的视角。
+<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师的启发，也常从他们关于社会、教育和公共生活的讨论中获得新的视角。
 </p>
 
 <p>
