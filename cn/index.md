@@ -6,7 +6,7 @@ title: 章明
 ### 欢迎来到我的页面！
 
 <p>
-我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球、健身，也欢迎感兴趣的朋友一起约运动，聊聊天，出出汗。
+我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。生活里，我喜欢跳绳、跑步、羽毛球、健身，也欢迎感兴趣的朋友一起约运动，聊聊天。
 </p>
 
 <p>
@@ -18,10 +18,8 @@ title: 章明
 <p>
 我从2025年开始在中国人民大学
 <a href="http://stat.ruc.edu.cn"><strong><u>统计学院</u></strong></a>
-学习统计学。入学前的一段时间里，我做过一些短期公益实践、田野调查和纪实写作；更早的时候，我在教育行业工作，主要教中小学生数学和英语，也辅导过国际本科生的经济学和数学课程。
-2021年，我毕业于山东大学
-<a href="https://www.econ.sdu.edu.cn"><strong><u>经济学院</u></strong></a>
-彭实戈班。下面是一些生活中的片段。
+学习统计学。入学前的一段时间里，我做过一些短期公益实践、田野调查和纪实写作；更早的时候，我在教育行业从事英语、数学、经济学辅导工作。
+下面是一些生活中的片段。
 </p>
 
 ### 近况
