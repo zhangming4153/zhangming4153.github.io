@@ -5,7 +5,7 @@ title: 章明
 ---
 ### 欢迎来到我的页面！
 
-我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我一直是比较喜欢动的人，平时喜欢跳绳、跑步、羽毛球和健身；也欢迎感兴趣的朋友一起约运动，散散步，聊聊天。
+我成长于江西<a href="https://baike.baidu.com/item/抚州市/520352"><strong><u>抚州</u></strong></a>和浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我一直是比较喜欢动的人，平时喜欢跳绳、跑步、羽毛球和健身；也欢迎感兴趣的朋友一起约运动。
 
 安静下来的时候，我常会读一些历史、地理和地方相关的杂书，也好奇不同地方的风土人情，以及普通人在具体生活中的处境。我从
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师和
