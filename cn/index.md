@@ -10,7 +10,7 @@ title: 章明
 </p>
 
 <p>
-安静下来的时候，我常读一些历史、地理和游记，也读一些社会、教育和公共生活中的东西。关于后者，我从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
+安静下来的时候，我常读一些历史、地理和游记，也读一些关于社会、教育和公共生活中的书和文章。关于这些问题，我从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师那里得到过很多启发。
 </p>
 
