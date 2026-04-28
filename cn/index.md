@@ -6,10 +6,7 @@ title: 章明
 ### 欢迎来到我的页面！
 
 <p>
-我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。
-
-<p>
-我成长在浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。
+我成长在江西抚州、浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。
 生活里，我喜欢跳绳、跑步、羽毛球，也很欢迎朋友一起运动、聊天、出汗。
 安静下来的时候，我常读一些历史、地理、地方志和游记，也喜欢通过地图与影像资料去理解不同地方的风土、人群与生活。
 </p>
