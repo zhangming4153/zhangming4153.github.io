@@ -5,14 +5,7 @@ title: 章明
 ---
 ### 欢迎来到我的页面！
 
-我来自浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。
-
-平时喜欢跳绳、跑步、羽毛球、篮球、徒步、健身，也欢迎感兴趣的朋友一起约运动。
-
-我正在学习和探索统计机器学习理论和方法。更早的时候，我是一名数学和经济学的课外老师。
-
-除了统计，我也关注教育和公共生活中的问题，从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
-<a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师那里得到过很多启发。下面是我的一些工作和生活中的片段。
+我来自浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我正在学习和探索统计机器学习理论和方法；更早的时候，我是一名数学和经济学的课外老师。我平时喜欢跳绳、跑步、羽毛球、篮球、徒步、健身，也欢迎感兴趣的朋友一起约运动。
 
 ### 近况
 
