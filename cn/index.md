@@ -11,7 +11,7 @@ title: 章明
 
 我正在学习和探索统计机器学习理论和方法。更早的时候，我是一名数学和经济学的课外老师。
 
-除了统计理论，我关注社会、教育和公共生活中的问题，从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
+除了统计，我关注社会、教育和公共生活中的问题，从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师那里得到过很多启发。
 
 下面是一些生活中的片段。
