@@ -11,11 +11,8 @@ title: 章明
 
 我也关注社会、教育和公共生活中的问题，从<a href="https://zh.wikipedia.org/wiki/饶毅"><strong><u>饶毅</u></strong></a>老师和
 <a href="https://baike.baidu.com/item/项飙/23318243"><strong><u>项飚</u></strong></a>老师那里得到过很多启发。
-</p>
 
-<p>
 我正在学习统计机器学习理论和方法。更早的时候，我在教育行业工作。下面是一些生活中的片段。
-</p>
 
 ### 近况
 
