@@ -17,7 +17,7 @@ title: 章明
 ### 近况
 
 - 2026 年 3 月，开始协助应统硕士生的“统计学外语”课程，和助教 Ziyi 一起设计课件和安排期末项目。
-- 2025 年 11 月，以 1:31 完成<a href="https://baike.baidu.com/pic/2025北京通州运河半程马拉松/"><strong><u>北京通州运河半程马拉松</u></strong></a>。"U"型赛道从西海子公园开始，沿运河向南延伸到城市绿心公园，终点设在人民大学通州校区。[[照片]](/assets/tongz_semimara_profile.jpg)
+- 2025 年 11 月，以 1:31 完成<a href="https://baike.baidu.com/pic/2025北京通州运河半程马拉松/"><strong><u>北京通州运河半程马拉松</u></strong></a>。"U"型赛道从西海子公园开始，终点设在人民大学通州校区。[[照片]](/assets/tongz_semimara_profile.jpg)
 - 2025 年 10 月，参加人民大学新生运动会的团体趣味项目、3000 米和跳绳项目。各自收获了一些小名次。
 - 2025 年 10 月，加入北京副中心跑团，参加每周训练。[[照片（右二）]](/assets/tongz_group.png)
 - 2025 年 9 月，加入人民大学<a href="https://zhoufeng6288.github.io"><strong><u>周峰</u></strong></a>老师的课题组，开始研究生阶段的学习与科研训练。[[照片（右二）]](/assets/people_0912.jpg)
