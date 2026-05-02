@@ -5,7 +5,7 @@ title: 章明
 ---
 ### 欢迎来到我的页面！
 
-我来自浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我正在人民大学学习和探索统计机器学习理论和方法。我平时喜欢跳绳、跑步、羽毛球，也欢迎感兴趣的朋友一起约运动。
+我来自浙江<a href="https://en.wikipedia.org/wiki/Yiwu"><strong><u>义乌</u></strong></a>。我正在人民大学学习和探索统计机器学习理论和方法。我平时喜欢跳绳、跑步、骑行、羽毛球，也欢迎感兴趣的朋友一起约运动。
 
 ### 近况
 
