@@ -9,7 +9,7 @@ title: 章明
 
 ### 计划
 
-- 2026 年 6 月，计划随 <a href="https://daqc.org.cn"><strong><u>大爱清尘</u></strong></a>探访普通话之乡<a href = "https://baike.baidu.com/item/滦平县/7429142"><strong<u>滦平县</u>的尘肺病人。
+- 2026 年 6 月，计划随 <a href="https://daqc.org.cn"><strong><u>大爱清尘</u></strong></a>探访普通话之乡<a href = "https://baike.baidu.com/item/滦平县/7429142"><strong><u>滦平县</u></strong></a>的尘肺病人。
 
 ### 近况
 
