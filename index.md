@@ -5,7 +5,7 @@ title: 章明
 ---
 ### 欢迎来到我的页面！
 
-我来自浙江 <a href="https://baike.baidu.com/item/义乌市"><strong><u>义乌</u></strong></a> 。我正在中国人民大学学习统计学。这之前，我在山东大学彭实戈班学习金融数学。我喜欢跳绳、跑步、骑行和各种球类运动，最近尝试健身，欢迎朋友们来约！
+我来自浙江 <a href="https://baike.baidu.com/item/义乌市"><strong><u>义乌</u></strong></a> 。我正在 <a href="http://stat.ruc.edu.cn"><strong><u>中国人民大学统计学院</u></strong></a> 学习统计机器学习。这之前，我在 <a href="https://www.sdu.edu.cn/index.htm"><strong><u>山东大学</u></strong></a> 彭实戈班学习金融数学。我喜欢跳绳、跑步、骑行和各种球类运动，最近尝试健身，欢迎朋友们来约！
 
 ### 近况
 
