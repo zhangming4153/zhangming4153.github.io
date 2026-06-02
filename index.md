@@ -15,4 +15,4 @@ title: 章明
 - 2025 年 10 月，加入通州城市副中心跑团，开启每周一训。[[照片（右二）]](/assets/tongz_group.png)
 - 2025 年 9 月，加入人民大学 <a href="https://zhoufeng6288.github.io"><strong><u>周峰</u></strong></a> 老师的课题组。[[照片（右二）]](/assets/people_0912.jpg)
 - 2025 年 8 月，随北京大学 <a href="https://www.saas.pku.edu.cn"><strong><u>现代农学院</u></strong></a> 调研宁夏银川、吴忠地区的农田水资源使用情况，走访村镇和灌区。[[调研随笔]](/assets/Ningxia.pdf) [[照片]](/assets/ningxia_me_0820.jpg)
-- 2025 年 5 月，随 <a href="https://daqc.org.cn"><strong><u>大爱清尘</u></strong></a> 探访山西 <a href = "https://baike.baidu.com/item/代县/1178294"><strong><u>代县</u></strong></a> 尘肺病患者。[[探访随笔]](/assets/Shanxi.pdf)[[照片（前排右二）]](/assets/daai_202505.jpg)
+- 2025 年 5 月，随 <a href="https://daqc.org.cn"><strong><u>大爱清尘</u></strong></a> 探访山西 <a href = "https://baike.baidu.com/item/代县/1178294"><strong><u>代县</u></strong></a> 尘肺病患者。[[探访随笔]](/assets/Shanxi.pdf)[[照片（右一）]](/assets/daai_202505.jpg)
