@@ -2,7 +2,7 @@
 # title: Ming Zhang
 # position: Master’s Student
 # affiliation: Renmin University of China
-email: mingjonnier@ruc.edu.cn
+email: jonnierzhang@foxmail.com
 
 # Search Engine Optimization
 keywords: statistics, machine learning, temporal point process, AI, causal inference
@@ -15,8 +15,8 @@ canonical: https://zhangming4153.github.io/
 
 # Images 
 avatar: /assets/img/profile_horse.jpg
-favicon: /assets/img/renmin.png
-favicon_dark: /assets/img/renmin.png
+favicon: 
+favicon_dark: 
 
 enable_footnote: false
 auto_dark_mode: true
