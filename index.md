@@ -4,7 +4,7 @@ permalink: /
 title: 章明
 ---
 
-我来自浙江 <a href="https://baike.baidu.com/item/义乌市"><strong><u>义乌</u></strong></a> ，现在住在北京 <a href = "https://baike.baidu.com/item/通州区/5203"><strong><u>通州</u></strong></a> ，之前在山东 <a href = "https://baike.baidu.com/item/济南市/194602"><strong><u>济南</u></strong></a> 学习生活了许多年。我喜欢溜街和骑行，最近在学口琴和游泳。欢迎朋友们相约！
+我来自浙江 <a href="https://baike.baidu.com/item/义乌市"><strong><u>义乌</u></strong></a> ，现住北京 <a href = "https://baike.baidu.com/item/通州区/5203"><strong><u>通州</u></strong></a> ，之前在山东 <a href = "https://baike.baidu.com/item/济南市/194602"><strong><u>济南</u></strong></a> 学习生活了许多年。我喜欢溜街和骑行，最近在学口琴和游泳。欢迎朋友们相约！
 
 ### 近况
 - 2026 年 6 月，和 <a href="https://daqc.org.cn"><strong><u>大爱清尘</u></strong></a> 探访河北 <a href = "https://baike.baidu.com/item/滦平县/7429142"><strong><u>滦平县</u></strong></a> 尘肺病患者。[[照片(TBD)]](/assets/Hebei.png)[[探访随笔(TBD)]](/assets/daai_202606.pdf)
