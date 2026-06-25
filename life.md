@@ -9,6 +9,7 @@ title: 章明
   <a href="/life" style="background: #2c3e50; color: white; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #2c3e50;">生活记录</a>
 </div>
 
+
 我来自浙江 <a href="https://baike.baidu.com/item/义乌市"><strong><u>义乌</u></strong></a> ，现住北京 <a href = "https://baike.baidu.com/item/通州区/5203"><strong><u>通州</u></strong></a> ，之前在山东 <a href = "https://baike.baidu.com/item/济南市/194602"><strong><u>济南</u></strong></a> 学习生活了许多年。我喜欢溜街和骑行，最近在学口琴和游泳。
 
 ### 近况
