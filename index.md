@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 title: Ming Zhang · Academic Homepage
 permalink: /
 ---
