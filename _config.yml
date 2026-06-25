@@ -1,29 +1,21 @@
-# Basic Information 
-# title: Ming Zhang
-# position: Master’s Student
-# affiliation: Renmin University of China
 email: jonnierzhang@foxmail.com
 
-# Search Engine Optimization
+url: "https://zhangming4153.github.io"
+baseurl: ""
+
 keywords: statistics, machine learning, temporal point process, AI, causal inference
-description: Ming Zhang is a Master student in Statistics and AI at Renmin University of China.
+description: Ming Zhang is a Master's student in Statistics at Renmin University of China.
 canonical: https://zhangming4153.github.io/
 
-# Links 
-# cv_link: assets/files/CV_MingZhang_en.pdf
-# github_link: https://github.com/zhangming4153
-
-# Images 
 avatar: /assets/img/profile_horse.jpg
-favicon: 
-favicon_dark: 
+favicon:
+favicon_dark:
 
 enable_footnote: false
 auto_dark_mode: true
 font: "Serif"
 
-# Google Analytics
-google_analytics: G-0DKF7N1ZZH  
+google_analytics: G-0DKF7N1ZZH
 
 remote_theme: yaoyao-liu/minimal-light
 
