@@ -5,12 +5,12 @@ permalink: /
 ---
 
 <!-- Navigation Buttons -->
-<div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0 30px 0; flex-wrap: wrap;">
-  <a href="{{ '/' | relative_url }}" style="background: #2c3e50; color: white; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #2c3e50;">
-    Academic Page
+<div style="display: flex; justify-content: center; gap: 28px; margin: 8px 0 28px 0; font-size: 0.95rem;">
+  <a href="/" style="color: #2c3e50; text-decoration: none; font-weight: 600; border-bottom: 2px solid #2c3e50; padding-bottom: 4px;">
+   Academic 
   </a>
-  <a href="{{ '/life/' | relative_url }}" style="background: #f8f9fa; color: #2c3e50; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #ddd;">
-    生活记录
+  <a href="/life/" style="color: #777; text-decoration: none; font-weight: 500; padding-bottom: 4px;">
+   生活页
   </a>
 </div>
 
