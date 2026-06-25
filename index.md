@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Ming Zhang · Academic Homepage
+title: Ming Zhang
 permalink: /
 ---
 
