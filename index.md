@@ -6,8 +6,12 @@ permalink: /
 
 <!-- Navigation Buttons -->
 <div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0 30px 0; flex-wrap: wrap;">
-  <a href="/" style="background: #2c3e50; color: white; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #2c3e50;">Academic Page</a>  
-  <a href="/life" style="background: #f8f9fa; color: #2c3e50; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #ddd;">生活记录</a>
+  <a href="{{ '/' | relative_url }}" style="background: #2c3e50; color: white; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #2c3e50;">
+    Academic Page
+  </a>
+  <a href="{{ '/life/' | relative_url }}" style="background: #f8f9fa; color: #2c3e50; padding: 8px 24px; border-radius: 30px; text-decoration: none; font-weight: 500; border: 1px solid #ddd;">
+    生活记录
+  </a>
 </div>
 
 ## About Me
