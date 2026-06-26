@@ -15,8 +15,14 @@ permalink: /
 </div>
 
 ## About Me
+
 Since September 2025, I have been a graduate student at the School of Statistics, Renmin University of China, working with <a href="https://zhoufeng6288.github.io" target="_blank"><strong>Prof. Feng Zhou</strong></a>'s research group.
-My current academic journey lies at the intersection of statistical machine learning, temporal point processes, and deep generative modeling. I am particularly interested in how statistical structures of event data, such as self-excitation, long-range dependence, and second-order temporal properties, can be better understood and preserved in modern generative models. Before joining Renmin University of China, I received my bachelor's degree in Financial Mathematics from Shandong University.
+
+My current academic journey lies at the intersection of statistical machine learning, temporal point processes, and deep generative modeling. I am particularly interested in how statistical structures of event data, such as self-excitation, long-range dependence, and second-order temporal properties, can be better understood and preserved in modern generative models. Before joining Renmin University of China, I received my bachelor's degree in Financial Mathematics from Shandong University. You can check this <p style="margin-top: -6px;">
+  <a href="/assets/CV_MingZhang_en.pdf" target="_blank" style="font-weight: 500;">
+    [CV]
+  </a>
+</p> for more information about me.
 
 ## Research Interests
 - Temporal Point Processes
